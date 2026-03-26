@@ -1,0 +1,1 @@
+pandas&#10;numpy&#10;matplotlib&#10;seaborn&#10;scikit-learn
